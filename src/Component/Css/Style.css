@@ -1,0 +1,14 @@
+
+.box{
+    background-color: black;
+    color: white;
+    width: 25%;
+    height: 20em;
+    margin: 10% auto;
+    padding-top: 3%;
+    text-align: center;
+
+}
+p{
+    font-weight: bold;
+}
